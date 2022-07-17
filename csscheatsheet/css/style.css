@@ -12,4 +12,10 @@ body{
 
      line-height: 1.6em;
      /*line-height is the option to change the space between lines in a paragraph.  NOTE: you can use px or em but most recommended is em*/
+     margin:0;
+}
+
+.box-1{
+    background-color:#333;
+    color:#fff;
 }
