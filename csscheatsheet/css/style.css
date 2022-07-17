@@ -1,0 +1,15 @@
+body{
+    background-color:#f4f4f4;
+    color:#555555;
+
+    /*font-family: arial, helvetica, sans-serif;
+    font-size: 16 px;
+    font-weight: normal;*/
+
+     /*same as above*/
+    
+     font: normal 16px arial, helvetica, sans-serif;
+
+     line-height: 1.6em;
+     /*line-height is the option to change the space between lines in a paragraph.  NOTE: you can use px or em but most recommended is em*/
+}
