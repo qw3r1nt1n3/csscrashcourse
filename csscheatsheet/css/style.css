@@ -32,6 +32,8 @@ body{
     /*same as above*/
 
     border: 5px red solid;
-
-
+    
+    border-width: 3px;
+    border-bottom-width: 10px;
+    border-top-style: dotted;
 }
